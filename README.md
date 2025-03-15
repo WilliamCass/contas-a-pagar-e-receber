@@ -11,18 +11,7 @@ Para executar este programa, é necessário ter o 'Node.js' instalado no computa
 
 Como Executar o Programa:
 
-1. Realize o download do 'Contas.js' e 'iniciar.bat'
+1. Clone o projeto para alguma pasta
 2. Basta clicar duas vezes no arquivo 'iniciar.bat' para abrir o programa automaticamente.
 
 
----
-Funcionalidades do Sistema:
-
-- 'Adicionar Conta a Pagar': Registra uma nova conta com nome, data, valor e status (Pago/Pendente).
-- 'Adicionar Conta a Receber': Registra uma nova conta com nome, data e valor.
-- 'Visualizar Registros':
-  - 'Contas a Pagar' (com total somado ao final).
-  - 'Contas a Receber' (com total somado ao final).
-  - 'Total Geral de Contas' (subtração de contas a pagar e receber).
-- 'Sair': Encerra o programa.
----
