@@ -3,19 +3,19 @@
 Este é um sistema simples de gerenciamento de contas a pagar e a receber, desenvolvido em JavaScript e executado via 'Prompt de Comando (cmd)'.
 
 ---
-Requisitos
+Requisitos:
 
 Para executar este programa, é necessário ter o 'Node.js' instalado no computador.
 ---
 
 
-Como Executar o Programa
+Como Executar o Programa:
 
 1. basta clicar duas vezes no arquivo 'iniciar.bat' para abrir o programa automaticamente.
 
 
 ---
-Funcionalidades do Sistema
+Funcionalidades do Sistema:
 
 - 'Adicionar Conta a Pagar': Registra uma nova conta com nome, data, valor e status (Pago/Pendente).
 - 'Adicionar Conta a Receber': Registra uma nova conta com nome, data e valor.
