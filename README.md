@@ -11,7 +11,8 @@ Para executar este programa, é necessário ter o 'Node.js' instalado no computa
 
 Como Executar o Programa:
 
-1. basta clicar duas vezes no arquivo 'iniciar.bat' para abrir o programa automaticamente.
+1. Realize o download do 'Contas.js' e 'iniciar.bat'
+2. basta clicar duas vezes no arquivo 'iniciar.bat' para abrir o programa automaticamente.
 
 
 ---
